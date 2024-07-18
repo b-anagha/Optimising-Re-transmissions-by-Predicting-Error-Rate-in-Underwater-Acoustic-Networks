@@ -7,7 +7,7 @@ Semester: 4th Sem B. Tech. CSE
 
 221CS114	B Anagha                banagha.221cs114@nitk.edu.in                    
 221CS123  G.Teja Sri              tejasrigarapati.221cs123@nitk.edu.in                 
-221CS257  T. Sarath Chandra       tumulasarathchandra.221cs257@nitk.edu.in             
+221CS257  T.Sarath Chandra       tumulasarathchandra.221cs257@nitk.edu.in             
 
 </details>
 
